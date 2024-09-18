@@ -86,7 +86,7 @@
     <h6><span>*</span> denotes equal contribution and joint lead authorship.</h6>
 
 
-    <!-- Year-wise Papers Collection -->
+    <!-- Year-wise Papers Collection 2024 -->
     <div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
       <div class="col-sm-11 p-0">
         <ol class="bibliography">
@@ -94,41 +94,36 @@
             <div class="row m-0 mt-3 p-0">
               <!-- Venue Abbr -->
               <div class="col-sm-1 p-0 abbr">
-                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://aclanthology.org/venues/emnlp/" target="_blank">
-                  EMNLP
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://arxiv.org/" target="_blank">
+                  arXiv
                 </a>
               </div>
 
               <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
-                <div id="StengelEskin-2022-troubling_quirk" class="col p-0">
+                <div id="Kalyan-2024-SLMs-Study" class="col p-0">
                   <!-- Title -->
-                  <h5 class="title mb-0">When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems.</h5>
+                  <h5 class="title mb-0">Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models</h5>
                   
                   <!-- Authors -->
                   <div class="author">
-                    <nobr><a href="https://esteng.github.io/" target="_blank">Elias Stengel-Eskin</a>,</nobr>
-                    <nobr><em>Emmanouil Antonios Platanios</em>,</nobr>
-                    <nobr><a href="https://www.linkedin.com/in/adam-pauls-137054102" target="_blank">Adam Pauls</a>,</nobr>
-                    <nobr><a href="https://samthomson.com/" target="_blank">Sam Thomson</a>,</nobr>
-                    <nobr><a href="https://hao-fang.github.io/" target="_blank">Hao Fang</a>,</nobr>
-                    <nobr><a href="https://www.cs.jhu.edu/~vandurme/" target="_blank">Benjamin Van Durme</a>,</nobr>
-                    <nobr><a href="https://www.cs.jhu.edu/~jason/" target="_blank">Jason Eisner</a>,</nobr>
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
+                    <nobr><a href="https://scholar.google.com/citations?user=occFbWAAAAAJ" target="_blank">Jimmy Dani</a>,</nobr>
                     and
-                    <nobr><a href="https://ysu1989.github.io/" target="_blank">Yu Su</a>.</nobr>        
+                    <nobr><a href="https://scholar.google.com/citations?user=_x5BEjoAAAAJ" target="_blank">Nitesh Saxena</a></nobr>     
                   </div>
 
                   <!-- Venue -->
                   <div>
                     <p class="periodical font-italic">
-                        In Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022.
+                      In arXiv (2406.05364) 2024.
                     </p>
                   </div>
 
                   <!-- Buttons -->
                   <div class="col p-0">
-                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#StengelEskin-2022-troubling_quirk-abstract" role="button" aria-expanded="false" aria-controls="StengelEskin-2022-troubling_quirk-abstract">Abstract</a>
-                    <a class="badge grey waves-effect font-weight-light mr-1" href="/assets/pdf/stengel_eskin_2022_troubling_quirk/paper.pdf" target="_blank">PDF</a>
-                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2024-SLMs-Study-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2024-SLMs-Study-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://ieeexplore.ieee.org/abstract/document/10454235" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
                     <!-- 
                       <div
                         class="__dimensions_badge_embed__"
@@ -143,9 +138,197 @@
 
                   <!-- Abstract -->
                   <div class="col mt-2 p-0">
-                    <div id="StengelEskin-2022-troubling_quirk-abstract" class="collapse">
+                    <div id="Kalyan-2024-SLMs-Study-abstract" class="collapse">
                       <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-                        In natural language understanding (NLU) production systems, users’ evolving needs necessitate the addition of new features over time, indexed by new symbols added to the meaning representation space. This requires additional training data and results in ever-growing datasets. We present the first systematic investigation into this incremental symbol learning scenario. Our analyses reveal a troubling quirk in building (broad-coverage) NLU systems: as the training dataset grows, more data is needed to learn new symbols, forming a vicious cycle. We show that this trend holds for multiple mainstream models on two common NLU tasks: intent recognition and semantic parsing. Rejecting class imbalance as the sole culprit, we reveal that the trend is closely associated with an effect we call source signal dilution, where strong lexical cues for the new symbol become diluted as the training dataset grows. Selectively dropping training examples to prevent dilution often reverses the trend, showing the over-reliance of mainstream neural NLU models on simple lexical cues and their lack of contextual understanding.
+                        In this paper, we present a very first study to investigate trust and ethical implications of on-device artificial intelligence (AI), focusing on ''small'' language models (SLMs) amenable for personal devices like smartphones. While on-device SLMs promise enhanced privacy, reduced latency, and improved user experience compared to cloud-based services, we posit that they might also introduce significant challenges and vulnerabilities compared to on-server counterparts.
+                        
+                        As part of our trust assessment study, we conduct a systematic evaluation of the state-of-the-art on-devices SLMs, contrasted to their on-server counterparts, based on a well-established trustworthiness measurement framework. Our results show on-device SLMs to be (statistically) significantly less trustworthy, specifically demonstrating more stereotypical, unfair and privacy-breaching behavior. Informed by these findings, we then perform our ethics assessment study by inferring whether SLMs would provide responses to potentially unethical vanilla prompts, collated from prior jailbreaking and prompt engineering studies and other sources. Strikingly, the on-device SLMs did answer valid responses to these prompts, which ideally should be rejected. Even more seriously, the on-device SLMs responded with valid answers without any filters and without the need for any jailbreaking or prompt engineering. These responses can be abused for various harmful and unethical scenarios including: societal harm, illegal activities, hate, self-harm, exploitable phishing content and exploitable code, all of which indicates the high vulnerability and exploitability of these on-device SLMs. Overall, our findings highlight gaping vulnerabilities in state-of-the-art on-device AI which seem to stem from resource constraints faced by these models and which may make typical defenses fundamentally challenging to be deployed in these environments.
+                      </div>
+                    </div>
+                  </div>
+          
+                </div>
+              </div>
+            </div>
+          </li>
+
+
+          <li>
+            <div class="row m-0 mt-3 p-0">
+              <!-- Venue Abbr -->
+              <div class="col-sm-1 p-0 abbr">
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://arxiv.org/" target="_blank">
+                  arXiv
+                </a>
+              </div>
+
+              <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
+                <div id="Jimmy-2024-CryptoML-SPECK" class="col p-0">
+                  <!-- Title -->
+                  <h5 class="title mb-0">Breaking Indistinguishability with Transfer Learning: A First Look at SPECK32/64 Lightweight Block Ciphers</h5>
+                  
+                  <!-- Authors -->
+                  <div class="author">
+                    <nobr><a href="https://scholar.google.com/citations?user=occFbWAAAAAJ" target="_blank">Jimmy Dani</a>,</nobr>
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
+                    and
+                    <nobr><a href="https://scholar.google.com/citations?user=_x5BEjoAAAAJ" target="_blank">Nitesh Saxena</a></nobr>        
+                  </div>
+
+                  <!-- Venue -->
+                  <div>
+                    <p class="periodical font-italic">
+                        In arXiv (2405.19683) 2024.
+                    </p>
+                  </div>
+
+                  <!-- Buttons -->
+                  <div class="col p-0">
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Jimmy-2024-CryptoML-SPECK-abstract" role="button" aria-expanded="false" aria-controls="Jimmy-2024-CryptoML-SPECK-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://arxiv.org/abs/2405.19683" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
+                    <!-- 
+                      <div
+                        class="__dimensions_badge_embed__"
+                        data-doi="10.18653/v1/2022.emnlp-main.789"
+                        data-hide-zero-citations="true"
+                        data-style="small_rectangle"
+                        data-legend="hover-right"
+                        style="display: inline-block; margin-bottom: 10px;"
+                      ></div>
+                    -->
+                  </div>
+
+                  <!-- Abstract -->
+                  <div class="col mt-2 p-0">
+                    <div id="Jimmy-2024-CryptoML-SPECK-abstract" class="collapse">
+                      <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+                        In this research, we introduce MIND-Crypt, a novel attack framework that uses deep learning (DL) and transfer learning (TL) to challenge the indistinguishability of block ciphers, specifically SPECK32/64 encryption algorithm in CBC mode (Cipher Block Chaining) against Known Plaintext Attacks (KPA). Our methodology includes training a DL model with ciphertexts of two messages encrypted using the same key. The selected messages have the same byte-length and differ by only one bit at the binary level. This DL model employs a residual network architecture. For the TL, we use the trained DL model as a feature extractor, and these features are then used to train a shallow machine learning, such as XGBoost. This dual strategy aims to distinguish ciphertexts of two encrypted messages, addressing traditional cryptanalysis challenges. 
+                        
+                        Our findings demonstrate that the DL model achieves an accuracy of approximately 99% under consistent cryptographic conditions (Same Key or Rounds) with the SPECK32/64 cipher. However, performance degrades to random guessing levels (50%) when tested with ciphertext generated from different keys or different encryption rounds of SPECK32/64. To enhance the results, the DL model requires retraining with different keys or encryption rounds using larger datasets (10^7 samples). To overcome this limitation, we implement TL, achieving an accuracy of about 53% with just 10,000 samples, which is better than random guessing. Further training with 580,000 samples increases accuracy to nearly 99%, showing a substantial reduction in data requirements by over 94%. This shows that an attacker can utilize machine learning models to break indistinguishability by accessing pairs of plaintexts and their corresponding ciphertexts encrypted with the same key, without directly interacting with the communicating parties.
+                      </div>
+                    </div>
+                  </div>
+          
+                </div>
+              </div>
+            </div>
+          </li>
+
+
+          <li>
+            <div class="row m-0 mt-3 p-0">
+              <!-- Venue Abbr -->
+              <div class="col-sm-1 p-0 abbr">
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://www.sciencedirect.com/journal/ad-hoc-networks" target="_blank">
+                  AdHoc
+                </a>
+              </div>
+
+              <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
+                <div id="Kalyan-2024-Irregular-Hex-Tessellation" class="col p-0">
+                  <!-- Title -->
+                  <h5 class="title mb-0">An Energy-Efficient Irregular Hexagonal Tessellation-based Approach for Connected k-Coverage in Planar Wireless Sensor Networks</h5>
+                  
+                  <!-- Authors -->
+                  <div class="author">
+                    <nobr><em>Kalyan Nakka</em></nobr>
+                    and
+                    <nobr><a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a></nobr>        
+                  </div>
+
+                  <!-- Venue -->
+                  <div>
+                    <p class="periodical font-italic">
+                        In Ad Hoc Networks 2024.
+                    </p>
+                  </div>
+
+                  <!-- Buttons -->
+                  <div class="col p-0">
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2024-Irregular-Hex-Tessellation-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2024-Irregular-Hex-Tessellation-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://www.sciencedirect.com/science/article/pii/S1570870523002731" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
+                    <!-- 
+                      <div
+                        class="__dimensions_badge_embed__"
+                        data-doi="10.18653/v1/2022.emnlp-main.789"
+                        data-hide-zero-citations="true"
+                        data-style="small_rectangle"
+                        data-legend="hover-right"
+                        style="display: inline-block; margin-bottom: 10px;"
+                      ></div>
+                    -->
+                  </div>
+
+                  <!-- Abstract -->
+                  <div class="col mt-2 p-0">
+                    <div id="Kalyan-2024-Irregular-Hex-Tessellation-abstract" class="collapse">
+                      <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+                        In the design of planar wireless sensor networks (PWSNs), the preliminary tasks are to achieve both coverage and connectivity, which are essential for the correct operation of this type of network. A PWSN is said to be in perfect operational condition only when it is capable of guaranteeing both coverage of the field and connectivity among all the active sensor nodes. In order to achieve both coverage and connectivity in PWSNs, we intend to solve the problem of connected k-coverage in PWSNs, where each point in a field of interest is covered (or sensed) by at least k sensor nodes (k > 1) simultaneously and all the participating sensor nodes in the k-coverage process are connected to each other. In our study, we found an irregular hexagon, denoted by IrHx(rs/n), as the best polygon for tessellating a field of interest and allowing to deploy sensor nodes, where n > 1 is a natural number and rs is the radius of the sensing range of the sensor nodes. First, we construct our proposed irregular hexagon, IrHx(rs/n), which forms a tile, using the regular hexagon. Second, we compute the minimum sensor density required to k-cover a planar field of interest using our proposed IrHx(rs/n) tile. Third, we establish a relationship between the sensing and communication radii of the sensor nodes to ensure network connectivity in k-covered PWSNs. Finally, we substantiate our theory with various simulation results.
+                      </div>
+                    </div>
+                  </div>
+          
+                </div>
+              </div>
+            </div>
+          </li>
+
+
+          <li>
+            <div class="row m-0 mt-3 p-0">
+              <!-- Venue Abbr -->
+              <div class="col-sm-1 p-0 abbr">
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://ieeexplore.ieee.org/xpl/conhome/1003148/all-proceedings" target="_blank">
+                  ISGT
+                </a>
+              </div>
+
+              <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
+                <div id="Kalyan-2024-PQC-Testbed" class="col p-0">
+                  <!-- Title -->
+                  <h5 class="title mb-0">Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks</h5>
+                  
+                  <!-- Authors -->
+                  <div class="author">
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
+                    <nobr><a href="https://scholar.google.com/citations?user=mgEUY8gAAAAJ" target="_blank">Seerin Ahmad</a>,</nobr>
+                    <nobr><a href="https://scholar.google.com/citations?user=pszzCaYAAAAJ" target="_blank">Taesic Kim</a>,</nobr>
+                    <nobr><a href="https://sites.google.com/view/taesickim/people#:~:text=M%20University%2DKingsville-,Logan,-A.%20Atkinson%20(B" target="_blank">Logan Atkinson</a>,</nobr>
+                    and
+                    <nobr><a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a></nobr>        
+                  </div>
+
+                  <!-- Venue -->
+                  <div>
+                    <p class="periodical font-italic">
+                        In IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT) 2024.
+                    </p>
+                  </div>
+
+                  <!-- Buttons -->
+                  <div class="col p-0">
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2024-PQC-Testbed-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2024-PQC-Testbed-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://ieeexplore.ieee.org/abstract/document/10454235" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
+                    <!-- 
+                      <div
+                        class="__dimensions_badge_embed__"
+                        data-doi="10.18653/v1/2022.emnlp-main.789"
+                        data-hide-zero-citations="true"
+                        data-style="small_rectangle"
+                        data-legend="hover-right"
+                        style="display: inline-block; margin-bottom: 10px;"
+                      ></div>
+                    -->
+                  </div>
+
+                  <!-- Abstract -->
+                  <div class="col mt-2 p-0">
+                    <div id="Kalyan-2024-PQC-Testbed-abstract" class="collapse">
+                      <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+                        Quantum era is near and advanced quantum computing will pose a huge threat to the security of the current cryptographic systems in distributed energy resources (DER)rich power grids. It is necessary to prepare now to combat quantum computing attacks with serious real-world consequences in the years ahead. Recently, post-quantum cryptography (PQC) is considered as one of the major candidates of quantum attack defense strategies, and the adoption of PQC for DER systems has not been fully studied yet. This paper discusses the adoption of PQC in a standard DER network protocol (i.e., IEEE 2030.5-PQC), and proposes a real-time hardware-in-the-loop co-simulation PQC testbed consisting of a DER physical system simulation and a cyber system simulation such as DER gateways and DER management system (DERMS) server. Universal custom-made PQC client and server software are developed to meet the compliant with IEEE 2030.5-2018 standard and implemented in the DER gateways and the DERMS server, respectively. Finally, the feasibility of the proposed PQC-grade DER network is validated by using the real-time co-simulation testbed.
                       </div>
                     </div>
                   </div>
@@ -166,7 +349,7 @@
 
 
 
-    <!-- Year-wise Papers Collection -->
+    <!-- Year-wise Papers Collection 2023 -->
     <div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
       <div class="col-sm-11 p-0">
         <ol class="bibliography">
@@ -174,41 +357,33 @@
             <div class="row m-0 mt-3 p-0">
               <!-- Venue Abbr -->
               <div class="col-sm-1 p-0 abbr">
-                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://aclanthology.org/venues/emnlp/" target="_blank">
-                  EMNLP
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://www.tamuk.edu/engineering/departments/eecs/index.html" target="_blank">
+                  TAMUK
                 </a>
               </div>
 
               <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
-                <div id="StengelEskin-2022-troubling_quirk" class="col p-0">
+                <div id="Kalyan-2023-MS-Thesis" class="col p-0">
                   <!-- Title -->
-                  <h5 class="title mb-0">When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems.</h5>
+                  <h5 class="title mb-0">Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches</h5>
                   
                   <!-- Authors -->
                   <div class="author">
-                    <nobr><a href="https://esteng.github.io/" target="_blank">Elias Stengel-Eskin</a>,</nobr>
-                    <nobr><em>Emmanouil Antonios Platanios</em>,</nobr>
-                    <nobr><a href="https://www.linkedin.com/in/adam-pauls-137054102" target="_blank">Adam Pauls</a>,</nobr>
-                    <nobr><a href="https://samthomson.com/" target="_blank">Sam Thomson</a>,</nobr>
-                    <nobr><a href="https://hao-fang.github.io/" target="_blank">Hao Fang</a>,</nobr>
-                    <nobr><a href="https://www.cs.jhu.edu/~vandurme/" target="_blank">Benjamin Van Durme</a>,</nobr>
-                    <nobr><a href="https://www.cs.jhu.edu/~jason/" target="_blank">Jason Eisner</a>,</nobr>
-                    and
-                    <nobr><a href="https://ysu1989.github.io/" target="_blank">Yu Su</a>.</nobr>        
+                    <nobr><em>Kalyan Nakka</em></nobr>
                   </div>
 
                   <!-- Venue -->
                   <div>
                     <p class="periodical font-italic">
-                        In Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022.
+                        In Master's Thesis at Texas A&M University-Kingsville 2023.
                     </p>
                   </div>
 
                   <!-- Buttons -->
                   <div class="col p-0">
-                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#StengelEskin-2022-troubling_quirk-abstract" role="button" aria-expanded="false" aria-controls="StengelEskin-2022-troubling_quirk-abstract">Abstract</a>
-                    <a class="badge grey waves-effect font-weight-light mr-1" href="/assets/pdf/stengel_eskin_2022_troubling_quirk/paper.pdf" target="_blank">PDF</a>
-                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2023-MS-Thesis-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2023-MS-Thesis-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://search.proquest.com/openview/10593130ffe518b96c28f468a9d6fcdf/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank">Thesis</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
                     <!-- 
                       <div
                         class="__dimensions_badge_embed__"
@@ -223,9 +398,127 @@
 
                   <!-- Abstract -->
                   <div class="col mt-2 p-0">
-                    <div id="StengelEskin-2022-troubling_quirk-abstract" class="collapse">
+                    <div id="Kalyan-2023-MS-Thesis-abstract" class="collapse">
                       <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-                        In natural language understanding (NLU) production systems, users’ evolving needs necessitate the addition of new features over time, indexed by new symbols added to the meaning representation space. This requires additional training data and results in ever-growing datasets. We present the first systematic investigation into this incremental symbol learning scenario. Our analyses reveal a troubling quirk in building (broad-coverage) NLU systems: as the training dataset grows, more data is needed to learn new symbols, forming a vicious cycle. We show that this trend holds for multiple mainstream models on two common NLU tasks: intent recognition and semantic parsing. Rejecting class imbalance as the sole culprit, we reveal that the trend is closely associated with an effect we call source signal dilution, where strong lexical cues for the new symbol become diluted as the training dataset grows. Selectively dropping training examples to prevent dilution often reverses the trend, showing the over-reliance of mainstream neural NLU models on simple lexical cues and their lack of contextual understanding.
+                        The metrics, called coverage and connectivity, are often used to assess the sensor's sensing and communication capabilities in planar wireless sensor networks (PWSNs). A PWSN relies on the detection capabilities of the sensors to provide coverage. However, this is not sufficient for this type of network to function properly. In addition, having all the sensors connected, i.e., they are capable of interacting with each other, is essential for the proper operation of PWSNs. This research aims to solve the connected k-coverage problem in PWSNs by ensuring that all field locations are covered or within the sensing range of at least k sensors (k > 1). Here, we provide a solution to the connected k-coverage problem using computational geometry-based approaches. Our goal is to maximize the lifetime of PWSNs by achieving connected k-coverage with a minimum number of sensors. To begin, we propose to tile the whole field of interest with planar tiles, which are convex polygons that do not overlap with each other and do not leave any gap in the underlying field. Following this, we compute the planar sensor density that is required to achieve k-coverage of a planar field of interest using these convex polygonal tiles. In addition, we determine network connectivity by correlating the sensing range of sensors with their communication range. Moreover, we propose energy-efficient connected k-coverage protocols based on our planar convex polygonal tiles. Finally, we validate our conceptual analysis with facts from simulations.
+                      </div>
+                    </div>
+                  </div>
+          
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li>
+            <div class="row m-0 mt-3 p-0">
+              <!-- Venue Abbr -->
+              <div class="col-sm-1 p-0 abbr">
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing" target="_blank">
+                  JPDC
+                </a>
+              </div>
+
+              <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
+                <div id="Kalyan-2023-Sqaure-Tessellation" class="col p-0">
+                  <!-- Title -->
+                  <h5 class="title mb-0">k-CSqu: Ensuring Connected k-Coverage using Cusp Squares of Square Tessellation</h5>
+                  
+                  <!-- Authors -->
+                  <div class="author">
+                    <nobr><em>Kalyan Nakka</em></nobr>
+                    and
+                    <nobr><a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a></nobr>        
+                  </div>
+
+                  <!-- Venue -->
+                  <div>
+                    <p class="periodical font-italic">
+                        In Journal of Parallel and Distributed Computing 2023.
+                    </p>
+                  </div>
+
+                  <!-- Buttons -->
+                  <div class="col p-0">
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2023-Sqaure-Tessellation-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2023-Sqaure-Tessellation-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://www.sciencedirect.com/science/article/pii/S0743731523001193" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
+                    <!-- 
+                      <div
+                        class="__dimensions_badge_embed__"
+                        data-doi="10.18653/v1/2022.emnlp-main.789"
+                        data-hide-zero-citations="true"
+                        data-style="small_rectangle"
+                        data-legend="hover-right"
+                        style="display: inline-block; margin-bottom: 10px;"
+                      ></div>
+                    -->
+                  </div>
+
+                  <!-- Abstract -->
+                  <div class="col mt-2 p-0">
+                    <div id="Kalyan-2023-Sqaure-Tessellation-abstract" class="collapse">
+                      <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+                        In planar wireless sensor networks (PWSNs), the most essential functionalities of the sensor nodes are both sensing and communication, which are evaluated using two fundamental concepts, namely coverage and connectivity, respectively. However, coverage alone is not sufficient for the correct operation of PWSNs. Additionally, it is important that network connectivity be ensured, where all the sensors are connected to one another, so that every pair of sensors can communicate with each other. To account for both coverage and connectivity, this paper aims at solving the problem of connected k-coverage in PWSNs, where every point in a field of interest is covered by at least k sensors (k > 1) at the same time, while all the sensors are mutually connected directly or indirectly. In order to solve this problem, we initially tessellate the entire field into adjacent and non-intersecting square tiles. Then, we construct a cusp-square inside each square tile of the tessellation for sensor placement. Based on this cusp-squared square tile, we compute the minimum planar sensor density for k-coverage in PWSNs. Also, we establish a relationship between the sensing and communication radii of the sensors to guarantee network connectivity in PWSNs. Finally, we validate our theoretical analysis using simulation results.
+                      </div>
+                    </div>
+                  </div>
+          
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li>
+            <div class="row m-0 mt-3 p-0">
+              <!-- Venue Abbr -->
+              <div class="col-sm-1 p-0 abbr">
+                <a class="badge font-weight-bold danger-color-dark align-middle" style="width: 53px;" href="https://ieeexplore.ieee.org/xpl/conhome/1000156/all-proceedings" target="_blank">
+                  ISCC
+                </a>
+              </div>
+
+              <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">      
+                <div id="Kalyan-2023-Square-Tessellation-Stochastic" class="col p-0">
+                  <!-- Title -->
+                  <h5 class="title mb-0">Square Tessellation for Stochastic Connected k-Coverage in Planar Wireless Sensor Networks</h5>
+                  
+                  <!-- Authors -->
+                  <div class="author">
+                    <nobr><em>Kalyan Nakka</em></nobr>
+                    and
+                    <nobr><a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a></nobr>        
+                  </div>
+
+                  <!-- Venue -->
+                  <div>
+                    <p class="periodical font-italic">
+                        In IEEE Symposium on Computers and Communications (ISCC) 2023.
+                    </p>
+                  </div>
+
+                  <!-- Buttons -->
+                  <div class="col p-0">
+                    <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#Kalyan-2023-Square-Tessellation-Stochastic-abstract" role="button" aria-expanded="false" aria-controls="Kalyan-2023-Square-Tessellation-Stochastic-abstract">Abstract</a>
+                    <a class="badge grey waves-effect font-weight-light mr-1" href="https://ieeexplore.ieee.org/abstract/document/10217979" target="_blank">Paper</a>
+                    <!-- <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/microsoft/nlu-incremental-symbol-learning" target="_blank">Code</a> -->
+                    <!-- 
+                      <div
+                        class="__dimensions_badge_embed__"
+                        data-doi="10.18653/v1/2022.emnlp-main.789"
+                        data-hide-zero-citations="true"
+                        data-style="small_rectangle"
+                        data-legend="hover-right"
+                        style="display: inline-block; margin-bottom: 10px;"
+                      ></div>
+                    -->
+                  </div>
+
+                  <!-- Abstract -->
+                  <div class="col mt-2 p-0">
+                    <div id="Kalyan-2023-Square-Tessellation-Stochastic-abstract" class="collapse">
+                      <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
+                        In this paper, we focus on the problem of connected k-coverage in planar wireless sensor networks (PWSNs), where every point in a field of interest (FoI) is covered by at least k sensors simultaneously, while all the participating sensors are mutually connected, where k > 1. To this end, we develop a global framework using a square tessellation that considers both deterministic and stochastic sensing models. Initially, we tessellate a planar FoI into adjacent and congruent square tiles. In each tile of this tessellation, we construct a cusp-square area for sensor placement to achieve k-coverage. Based on this cusp-squared square tile configuration, we compute the minimum sensor density that is required for deterministic and stochastic k-coverage in PWSNs. Then, we establish the necessary relationship that should exist between the sensing and communication ranges of the sensors to maintain network connectivity in k-covered PWSNs. Finally, we propose our stochastic k-coverage protocol for sensor scheduling and substantiate our theoretical analysis with simulation results.
                       </div>
                     </div>
                   </div>
@@ -246,7 +539,7 @@
 
 
 
-    <!-- Year-wise Papers Collection -->
+    <!-- Year-wise Papers Collection 2017 -->
     <div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
       <div class="col-sm-11 p-0">
         <ol class="bibliography">
@@ -267,7 +560,7 @@
                   
                   <!-- Authors -->
                   <div class="author">
-                    <nobr><em>Nakka Venkata Swamy Kalyan</em>,</nobr>
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
                     <nobr><a href="https://scholar.google.com/citations?user=vw44NJkAAAAJ" target="_blank">Dipen Kumar Rajak</a>,</nobr>
                     and
                     <nobr><a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">Lakshmi Annamalai Kumaraswamidhas</a>.</nobr>        
@@ -322,7 +615,7 @@
 
 
 
-    <!-- Year-wise Papers Collection -->
+    <!-- Year-wise Papers Collection 2016 -->
     <div class="row m-0 p-0" style="border-bottom: 1px solid #ddd;">
       <div class="col-sm-11 p-0">
         <ol class="bibliography">
@@ -344,7 +637,7 @@
                   
                   <!-- Authors -->
                   <div class="author">
-                    <nobr><em>Nakka Venkata Swamy Kalyan</em>,</nobr>
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
                     <nobr><a href="https://scholar.google.com/citations?user=rv70tT4AAAAJ" target="_blank">Bedadhala Bharadwaja Reddy</a>,</nobr> 
                     <nobr><a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">Lakshmi Annamalai Kumaraswamidhas</a>,</nobr>    
                     and
@@ -408,7 +701,7 @@
                   <!-- Authors -->
                   <div class="author">
                     <nobr><a href="https://scholar.google.com/citations?user=vw44NJkAAAAJ" target="_blank">Dipen Kumar Rajak</a>,</nobr>
-                    <nobr><em>Nakka Venkata Swamy Kalyan</em>,</nobr>
+                    <nobr><em>Kalyan Nakka</em>,</nobr>
                     <nobr><a href="https://scholar.google.com/citations?user=rv70tT4AAAAJ" target="_blank">Bedadhala Bharadwaja Reddy</a>,</nobr> 
                     and
                     <nobr><a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">Lakshmi Annamalai Kumaraswamidhas</a>.</nobr>        
