@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://spies.engr.tamu.edu/'>SPIES Research Lab</a>. Texas A&M University.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2nd year Ph.D. Student, SPIES Research Lab</p>
+    <p>Department of Computer Science & Engineering</p>
+    <p>Texas A&M University, College Station, TX</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,23 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>
+  I am a Doctoral student in the Department of Computer Science & Engineering, <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a> at College Station (TAMU). I am advised by Dr. <a href="https://scholar.google.com/citations?user=_x5BEjoAAAAJ" target="_blank">Nitesh Saxena</a> at SPIES Research Lab, and my research interest lies in the intersection of Adversarial ML and AI Security, focused on AI systems of Language Models (both SLMs and LLMs).
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>
+  I received my Masters degree (<a href="https://www.proquest.com/openview/10593130ffe518b96c28f468a9d6fcdf/" target="_blank">Thesis</a>) from <a href="https://www.tamuk.edu/index.html" target="_blank">Texas A&M University</a> at Kingsville (TAMUK) in 2023. At TAMUK, I had the oppurtunity to work with Dr. <a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a> at WiSeMAN Research Lab, on designing reliable, fault-tolerant and energy-efficient Wireless Sensor Networks (WSNs), and with Dr. <a href="https://scholar.google.com/citations?user=pszzCaYAAAAJ" target="_blank">Taesic Kim</a> at CPPES Lab, on the cybersecurity of Distributed Energy Resources (DERs) and Smart Grid. 
+</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>
+  Prior to joining TAMUK, I was a Senior Software Engineer with 5 years of professional experience (2016-2021), and received my Bachelors degree from Indian Institute of Technology (IIT) at Dhanbad in 2016. At IIT, I worked on the project of Computer-aided design and simulation of Automobile components subjected to various experimental conditions, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">L. A. Kumaraswamidhas</a>.
+</p>
+
+<p>
+  Apart from researching, I am very fond of drawing pencil sketches, creating ambigrams, watching Anime/TV Series/Movies, and playing Video games.
+</p>
