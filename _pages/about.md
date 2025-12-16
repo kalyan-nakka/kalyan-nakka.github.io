@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://spies.engr.tamu.edu/'>SPIES Research Lab</a>. Texas A&M University.
+subtitle: <a href='https://spies.engr.tamu.edu/'>SPIES Research Lab</a>, Texas A&M University, College Station, TX, USA.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2nd year Ph.D. Student, SPIES Research Lab</p>
-    <p>Department of Computer Science & Engineering</p>
-    <p>Texas A&M University, College Station, TX</p>
+    <p>2nd year Ph.D. Student</p>
+    <p>SPIES Research Lab</p>
+    <p>Dept. of CSE</p>
+    <p>Texas A&M University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
