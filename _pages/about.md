@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://spies.engr.tamu.edu/'>SPIES Research Lab</a>, Texas A&M University.
 
