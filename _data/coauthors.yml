@@ -38,9 +38,13 @@
     url: https://scholar.google.com/citations?user=vw44NJkAAAAJ
 
 "kumaraswamidhas":
- - lastname: ["Kumaraswamidhas"]
+ - firstname: ["L. A."]
    url: https://scholar.google.com/citations?user=cgG7GyoAAAAJ
 
 "reddy":
  - firstname: ["Bedadhala Bharadwaja"]
    url: https://scholar.google.com/citations?user=rv70tT4AAAAJ
+
+"ammari":
+ - firstname: ["Habib M."]
+   url: https://scholar.google.com/citations?user=gQpo2tUAAAAJ

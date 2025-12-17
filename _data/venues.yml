@@ -10,3 +10,14 @@
 
 "RoJAE":
   url: https://www.ingineria-automobilului.ro/about.php
+
+"ISCC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000156/all-proceedings
+
+"JPDC":
+  url: https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing
+
+"TAMUK":
+  url: https://www.tamuk.edu/engineering/departments/eecs/index.html
+  color: "#009f36"
+
