@@ -33,10 +33,14 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"dipenkumar":
+"rajak":
   - firstname: ["Dipen Kumar"]
     url: https://scholar.google.com/citations?user=vw44NJkAAAAJ
 
-"lakdhas":
+"kumaraswamidhas":
  - lastname: ["Kumaraswamidhas"]
    url: https://scholar.google.com/citations?user=cgG7GyoAAAAJ
+
+"reddy":
+ - firstname: ["Bedadhala Bharadwaja"]
+   url: https://scholar.google.com/citations?user=rv70tT4AAAAJ
