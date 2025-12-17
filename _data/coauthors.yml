@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"dipenkumar":
+  - firstname: ["Dipen Kumar"]
+    url: https://scholar.google.com/citations?user=vw44NJkAAAAJ
+
+"lakdhas":
+ - lastname: ["Kumaraswamidhas"]
+   url: https://scholar.google.com/citations?user=cgG7GyoAAAAJ
