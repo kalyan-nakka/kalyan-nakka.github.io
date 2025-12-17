@@ -19,5 +19,19 @@
 
 "TAMUK":
   url: https://www.tamuk.edu/engineering/departments/eecs/index.html
-  color: "#009f36"
+  color: "#00369f"
 
+"ISGT":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1003148/all-proceedings
+
+"AdHoc":
+  url: https://www.sciencedirect.com/journal/ad-hoc-networks
+
+"arXiv":
+  url: https://arxiv.org/
+
+"Access":
+  url: https://ieeeaccess.ieee.org/
+
+"ECCE":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1002943/all-proceedings

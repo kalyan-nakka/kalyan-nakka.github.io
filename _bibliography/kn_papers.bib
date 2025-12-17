@@ -1,6 +1,73 @@
 ---
 ---
 
+@inproceedings{ahn2024field,
+  title={Field Demonstration of Blockchain-based Security for a Solar Farm},
+  author={Ahn, BoHyun and Nakka, Kalyan and Handke, Nathanial R and Reyna, Trevor J and Kim, Taesic},
+  booktitle={2024 IEEE Energy Conversion Congress and Exposition (ECCE)},
+  pages={1753--1759},
+  year={2024},
+  organization={IEEE},
+  abstract={This paper introduces a Blockchain (BC)-based security model for a solar farm, providing security functions such as firmware patching management, role-based access control, public key infrastructure, and man-in-the-middle attacks detection (MITM), malware file detection. In particular, this paper provides detailed field-testing methods at a solar fam to demonstrate the feasibility and effectiveness of cyber-attack detection methods. Practical cyberattacks targeting solar farms are designed and conducted. It is demonstrated that the proposed BC-based system proactively detects MITM attacks, firmware modification attack, and malware attack, while ensuring the continuous operation of the solar farm during attack events.},
+  abbr={ECCE},
+  pdf={2024_IEEE_ECCE.pdf},
+  preview={2024_bc_security_platform.png}
+}
+
+@article{ahmad2024blockchain,
+  title={Blockchain-Assisted Resilient Control for Distributed Energy Resource Management Systems},
+  author={Ahmad, Seerin and Nakka, Kalyan and Kim, Taesic and Han, Dongjun and Won, Dongjun and Ahn, Bohyun},
+  journal={IEEE Access},
+  volume={12},
+  pages={191748--191762},
+  year={2024},
+  publisher={IEEE},
+  abstract={Grid resilience has become a paramount concern in today’s dynamic energy landscape, wherein the mass integration of distributed energy resources (DERs) plays a crucial role in achieving flexible and resilient power grids. A DER management system (DERMS) is a remote monitoring and control system managing DERs in a distribution system, which is becoming increasingly important for a DER-rich power grid. However, an outstanding issue is a single point of failure of the centralized DERMS by cyberattacks, which threatens grid stability and results in regional power outages in the worst case. This paper proposes a novel approach to address the resilience challenges faced in the centralized DERMS through the development of a blockchain (BC)-assisted resilient control mechanism. The main idea is to create a virtual DERMS monitoring and control using BC smart contract and network that takes over seamlessly in the event of a failure of the DERMS. This BC system enables securely sharing DER and grid data among BC clients and provides control commands to DERs when the DERMS is a denial-of-service condition. To demonstrate the effectiveness of the proposed BC-assisted DERMS voltage and frequency control recovery cases are tested in a real-time hardware-in-the-loop DER system testbed.},
+  abbr={Access},
+  pdf={2024_IEEE_Access.pdf},
+  preview={2024_bc_control_platform.png}
+}
+
+@article{nakka2024device,
+  title={Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models},
+  author={Nakka, Kalyan and Dani, Jimmy and Saxena, Nitesh},
+  journal={arXiv preprint arXiv:2406.05364},
+  year={2024},
+  abstract={In this paper, we present a very first study to investigate trust and ethical implications of on-device artificial intelligence (AI), focusing on ''small'' language models (SLMs) amenable for personal devices like smartphones. While on-device SLMs promise enhanced privacy, reduced latency, and improved user experience compared to cloud-based services, we posit that they might also introduce significant challenges and vulnerabilities compared to on-server counterparts.
+                        
+  As part of our trust assessment study, we conduct a systematic evaluation of the state-of-the-art on-devices SLMs, contrasted to their on-server counterparts, based on a well-established trustworthiness measurement framework. Our results show on-device SLMs to be (statistically) significantly less trustworthy, specifically demonstrating more stereotypical, unfair and privacy-breaching behavior. Informed by these findings, we then perform our ethics assessment study by inferring whether SLMs would provide responses to potentially unethical vanilla prompts, collated from prior jailbreaking and prompt engineering studies and other sources. Strikingly, the on-device SLMs did answer valid responses to these prompts, which ideally should be rejected. Even more seriously, the on-device SLMs responded with valid answers without any filters and without the need for any jailbreaking or prompt engineering. These responses can be abused for various harmful and unethical scenarios including: societal harm, illegal activities, hate, self-harm, exploitable phishing content and exploitable code, all of which indicates the high vulnerability and exploitability of these on-device SLMs. Overall, our findings highlight gaping vulnerabilities in state-of-the-art on-device AI which seem to stem from resource constraints faced by these models and which may make typical defenses fundamentally challenging to be deployed in these environments.},
+  abbr={arXiv},
+  html={https://arxiv.org/pdf/2406.05364},
+  preview={2024_on_device_slms_study.png}
+}
+
+@article{nakka2024energy,
+  title={An Energy-Efficient Irregular Hexagonal Tessellation-based Approach for Connected k-Coverage in Planar Wireless Sensor Networks},
+  author={Nakka, Kalyan and Ammari, Habib M.},
+  journal={Ad Hoc Networks},
+  volume={154},
+  pages={103353},
+  year={2024},
+  publisher={Elsevier},
+  abstract={In the design of planar wireless sensor networks (PWSNs), the preliminary tasks are to achieve both coverage and connectivity, which are essential for the correct operation of this type of network. A PWSN is said to be in perfect operational condition only when it is capable of guaranteeing both coverage of the field and connectivity among all the active sensor nodes. In order to achieve both coverage and connectivity in PWSNs, we intend to solve the problem of connected k-coverage in PWSNs, where each point in a field of interest is covered (or sensed) by at least k sensor nodes (k > 1) simultaneously and all the participating sensor nodes in the k-coverage process are connected to each other. In our study, we found an irregular hexagon, denoted by IrHx(rs/n), as the best polygon for tessellating a field of interest and allowing to deploy sensor nodes, where n > 1 is a natural number and rs is the radius of the sensing range of the sensor nodes. First, we construct our proposed irregular hexagon, IrHx(rs/n), which forms a tile, using the regular hexagon. Second, we compute the minimum sensor density required to k-cover a planar field of interest using our proposed IrHx(rs/n) tile. Third, we establish a relationship between the sensing and communication radii of the sensor nodes to ensure network connectivity in k-covered PWSNs. Finally, we substantiate our theory with various simulation results.},
+  abbr={AdHoc},
+  pdf={12_05_2023_Elsevier_Ad_Hoc_Net.pdf},
+  preview={2024_kindi.png}
+}
+
+@inproceedings{nakka2024post,
+  title={Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks},
+  author={Nakka, Kalyan and Ahmad, Seerin and Kim, Taesic and Atkinson, Logan and Ammari, Habib M.},
+  booktitle={2024 IEEE Power \& Energy Society Innovative Smart Grid Technologies Conference (ISGT)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE},
+  abstract={Quantum era is near and advanced quantum computing will pose a huge threat to the security of the current cryptographic systems in distributed energy resources (DER)rich power grids. It is necessary to prepare now to combat quantum computing attacks with serious real-world consequences in the years ahead. Recently, post-quantum cryptography (PQC) is considered as one of the major candidates of quantum attack defense strategies, and the adoption of PQC for DER systems has not been fully studied yet. This paper discusses the adoption of PQC in a standard DER network protocol (i.e., IEEE 2030.5-PQC), and proposes a real-time hardware-in-the-loop co-simulation PQC testbed consisting of a DER physical system simulation and a cyber system simulation such as DER gateways and DER management system (DERMS) server. Universal custom-made PQC client and server software are developed to meet the compliant with IEEE 2030.5-2018 standard and implemented in the DER gateways and the DERMS server, respectively. Finally, the feasibility of the proposed PQC-grade DER network is validated by using the real-time co-simulation testbed.},
+  abbr={ISGT},
+  pdf={03_08_2024_IEEE_ISGT.pdf},
+  preview={2024_pqc_ieee_2030.png}
+}
+
 @mastersthesis{nakka2023achieving,
   title={Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches},
   author={Nakka, Kalyan},
