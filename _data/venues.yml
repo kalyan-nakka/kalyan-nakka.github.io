@@ -35,3 +35,15 @@
 
 "ECCE":
   url: https://ieeexplore.ieee.org/xpl/conhome/1002943/all-proceedings
+
+"TOSN":
+  url: https://dl.acm.org/journal/tosn
+
+"PST":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1002478/all-proceedings
+
+"IJCNLP-AACL":
+  url: https://aclanthology.org/venues/ijcnlp/
+
+"WiMob":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1001404/all-proceedings
