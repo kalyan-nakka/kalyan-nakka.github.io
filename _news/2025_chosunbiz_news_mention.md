@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 <p>
-<span style="color: #CD5C5C;">
+<span style="color: #DAA520;">
 <b>
 [MEDIA]
 </b>

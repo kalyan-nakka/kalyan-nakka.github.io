@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kalyan Nakka",
+    "label": "2nd year PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kalyan@tamu.edu",
+    "phone": "(361) 516-7796",
+    "url": "https://kalyan-nakka.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "400 Bizzell St",
+      "postalCode": "TX 77840",
+      "city": "College Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -22,6 +22,60 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "AI/ML",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Adversarial ML",
+        "AI Security"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "location": "College Station, TX, USA",
+      "url": "https://www.tamu.edu/",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2024-01-18",
+      "endDate": "2027-05-12",
+      "courses": [
+        "GPA: 4.0 (4.0 scale).",
+        "Advisor: Dr. Nitesh Saxena",
+        "Research: Security of real-world AI/ML systems."
+      ]
+    },
+    {
+      "institution": "Texas A&M University-Kingsville",
+      "location": "Kingsville, TX, USA",
+      "url": "https://www.tamuk.edu/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2021-08-17",
+      "endDate": "2023-05-12",
+      "courses": [
+        "GPA: 4.0 (4.0 scale) – Distinction.",
+        "Advisors: Dr. Habib M. Ammari (Thesis) and Dr. Taesic Kim (Research)",
+        "Research: (1) Development of fault-tolerant and energy-efficient Wireless Sensor Networks, and (2) Cybersecurity of Distributed Energy Resources and Smart Grid."
+      ]
+    },
+    {
+      "institution": "Indian Institute of Technology, Dhanbad",
+      "location": "Dhanbad, JH, India",
+      "url": "https://www.iitism.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "BTech",
+      "startDate": "2012-07-22",
+      "endDate": "2016-04-30",
+      "courses": [
+        "GPA: 7.73 (10.0 scale) – First Class.",
+        "Advisor: Prof. L. A. Kumaraswamidhas.",
+        "Project: Computer-aided design and simulation of Automotive components subjected to experimental conditions."
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -43,19 +97,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -159,20 +200,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "references": [
