@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2nd year Ph.D. Student</p>
+    <p>2nd year PhD Student</p>
     <p>SPIES Research Lab</p>
     <p>CSE @ Texas A&M University</p>
     <p>College Station, TX, USA</p>

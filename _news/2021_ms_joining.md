@@ -5,4 +5,9 @@ inline: true
 related_posts: false
 ---
 
-<p>Started as a M.S. student at EECS @ TAMUK.</p>
+<p>
+<span style="color: #008000;">
+[Status]
+</span>
+Started as a MS student at EECS @ TAMUK.
+</p>
