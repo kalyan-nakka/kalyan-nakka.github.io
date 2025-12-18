@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="/assets/pdf/12_05_2023_Elsevier_Ad_Hoc_Net.pdf" target="_blank"><i>k</i>-InDi</a>, a connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>AdHoc Networks</b> journal.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="/assets/pdf/12_05_2023_Elsevier_Ad_Hoc_Net.pdf" target="_blank"><i>k</i>-InDi</a>, a connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>AdHoc Networks</b> journal.
+</p>

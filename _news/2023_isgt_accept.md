@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="/assets/pdf/03_08_2024_IEEE_ISGT.pdf" target="_blank">PQC-grade IEEE 2030.5 network</a> for DERs, is accepted in <b>IEEE ISGT 2024</b> conference.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="/assets/pdf/03_08_2024_IEEE_ISGT.pdf" target="_blank">PQC-grade IEEE 2030.5 network</a> for DERs, is accepted in <b>IEEE ISGT 2024</b> conference.
+</p>

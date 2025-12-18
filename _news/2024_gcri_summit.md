@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Presented our <a href="https://arxiv.org/pdf/2406.05364" target="_blank">On-Device SLMs study</a>, for understanding their trust and ethics gap, at <b>Texas A&M Global Cyber Research Institute Annual Summit 2024</b>.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PRESENTATION]
+</b>
+</span>
+Presented our <a href="https://arxiv.org/pdf/2406.05364" target="_blank">On-Device SLMs study</a>, for understanding their trust and ethics gap, at <b>Texas A&M Global Cyber Research Institute Annual Summit 2024</b>.
+</p>

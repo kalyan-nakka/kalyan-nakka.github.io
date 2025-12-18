@@ -6,8 +6,10 @@ related_posts: false
 ---
 
 <p>
-<span style="color: #008000;">
-[Status]
+<span style="color: #228B22;">
+<b>
+[STATUS]
+</b>
 </span>
 Started as a MS student at EECS @ TAMUK.
 </p>

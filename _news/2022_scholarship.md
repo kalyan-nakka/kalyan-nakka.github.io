@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Received the <b>Dean's Merit Scholarship</b> from College of Engineering @ TAMUK. Many thanks for the support.</p>
+<p>
+<span style="color: #A52A2A;">
+<b>
+[HONOR]
+</b>
+</span>
+Received the <b>Dean's Merit Scholarship</b> from College of Engineering @ TAMUK. Many thanks for the support.
+</p>

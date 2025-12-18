@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>I received my M.S. degree from EECS @ TAMUK. I deeply appreciate all the support and help from my family, advisor, collaborators, and friends!</p>
+<p>
+<span style="color: #228B22;">
+<b>
+[STATUS]
+</b>
+</span>
+I received my M.S. degree from EECS @ TAMUK. I deeply appreciate all the support and help from my family, advisor, collaborators, and friends!
+</p>

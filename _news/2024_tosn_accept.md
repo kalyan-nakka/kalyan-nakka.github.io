@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="/assets/pdf/2025_ACM_TOSN.pdf" target="_blank">Het-<i>k</i>-CSqu</a>, a heterogeneous connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>ACM TOSN</b> journal.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="/assets/pdf/2025_ACM_TOSN.pdf" target="_blank">Het-<i>k</i>-CSqu</a>, a heterogeneous connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>ACM TOSN</b> journal.
+</p>

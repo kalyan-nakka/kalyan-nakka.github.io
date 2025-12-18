@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="https://arxiv.org/pdf/2505.05619" target="_blank">LiteLMGuard</a> is accepted in <b>IJCNLP-AACL 2025</b> conference.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="https://arxiv.org/pdf/2505.05619" target="_blank">LiteLMGuard</a> is accepted in <b>IJCNLP-AACL 2025</b> conference.
+</p>

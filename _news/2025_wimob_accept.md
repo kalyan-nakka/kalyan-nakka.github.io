@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="/assets/pdf/2025_IEEE_WiMob.pdf" target="_blank">St-<i>k</i>-InDi</a>, a stochastic connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>STWiMob</b> workshop @ <b>IEEE WiMob 2025</b> conference.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="/assets/pdf/2025_IEEE_WiMob.pdf" target="_blank">St-<i>k</i>-InDi</a>, a stochastic connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>STWiMob</b> workshop @ <b>IEEE WiMob 2025</b> conference.
+</p>

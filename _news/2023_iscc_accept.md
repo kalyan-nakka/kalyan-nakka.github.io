@@ -5,4 +5,11 @@ inline: true
 related_posts: false
 ---
 
-<p>Our paper on <a href="/assets/pdf/07_09_2023_IEEE_ISCC.pdf" target="_blank">St-<i>k</i>-CSqu</a>, a stochastic connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>IEEE ISCC 2023</b> conference.</p>
+<p>
+<span style="color: #1E90FF;">
+<b>
+[PAPER]
+</b>
+</span>
+Our paper on <a href="/assets/pdf/07_09_2023_IEEE_ISCC.pdf" target="_blank">St-<i>k</i>-CSqu</a>, a stochastic connected <i>k</i>-coverage protocol for 2D-WSNs, is accepted in <b>IEEE ISCC 2023</b> conference.
+</p>
