@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Summary of my education, experience, accolades and others.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-as-a-m-s-student-at-eecs-tamuk",
-          title: 'Started as a M.S. student at EECS @ TAMUK.',
+            },},{id: "news-status-started-as-a-ms-student-at-eecs-tamuk",
+          title: '[Status]  Started as a MS student at EECS @ TAMUK.',
           description: "",
           section: "News",},{id: "news-received-the-rockwell-international-scholarship-and-computer-science-graduate-scholarship-from-eecs-tamuk-many-thanks-for-the-support",
           title: 'Received the Rockwell International Scholarship and Computer Science Graduate Scholarship from EECS @...',
@@ -66,8 +66,8 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-dean-39-s-merit-scholarship-from-college-of-engineering-tamuk-many-thanks-for-the-support",
           title: 'Received the Dean&amp;#39;s Merit Scholarship from College of Engineering @ TAMUK. Many thanks...',
           description: "",
-          section: "News",},{id: "news-successfully-defended-my-master-39-s-thesis-at-tamuk-advised-by-dr-habib-m-ammari-in-the-wiseman-research-lab",
-          title: 'Successfully defended my Master&amp;#39;s Thesis at TAMUK, advised by Dr. Habib M. Ammari...',
+          section: "News",},{id: "news-successfully-defended-my-ms-thesis-slides-at-tamuk-advised-by-dr-habib-m-ammari-in-the-wiseman-research-lab",
+          title: 'Successfully defended my MS Thesis (slides) at TAMUK, advised by Dr. Habib M....',
           description: "",
           section: "News",},{id: "news-presented-virtually-our-work-on-pqc-grade-ieee-2030-5-network-for-ders-at-sunspec-alliance-annual-meeting-2022",
           title: 'Presented (virtually) our work on PQC-grade IEEE 2030.5 network for DERs, at SunSpec...',
@@ -126,7 +126,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-blockchain-based-security-platform-for-solar-farms-led-by-bohyun-ahn-is-accepted-in-ieee-tia-journal",
           title: 'Our paper on blockchain-based security platform for solar farms, led by Bohyun Ahn,...',
           description: "",
-          section: "News",},{id: "news-our-on-device-slms-study-is-cited-in-a-south-korean-news-article-covering-a-major-ai-security-breach-incident-check-the-original-news-article-here",
+          section: "News",},{id: "news-our-on-device-slms-study-is-cited-in-a-south-korean-news-article-covering-a-major-incident-related-to-ai-security-breach-check-the-original-news-article-here",
           title: 'Our On-Device SLMs study is cited in a South Korean news article, covering...',
           description: "",
           section: "News",},{
