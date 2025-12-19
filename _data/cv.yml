@@ -2,33 +2,50 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kalyan Nakka
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd May 1995
     - name: Languages
-      value: English, German
+      value: English, Telugu, Hindi
+
+- title: Research Interests
+  type: list
+  contents:
+    - Adversarial Machine Learning and AI Security
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy (PhD) in Computer Science
+      institution: Texas A&M University, College Station, TX, United States
+      year: 2024 - 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - 'GPA: 4.0 (4.0 scale)'
+        - 'Advisor: Dr. Nitesh Saxena'
+        - 'Research: Security of real-world AI/ML systems'
+    - title: Master of Science (MS) in Computer Science
+      institution: Texas A&M University–Kingsville, Kingsville, TX, United States
+      year: 2021 - 2023
+      description:
+        - 'GPA: 4.0 (4.0 scale) – Distinction'
+        - title: 'Advisor:'
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Dr. Habib M. Ammari (Thesis)
+            - Dr. Taesic Kim (Research)
+        - 'Thesis: Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches'
+        - title: 'Research:'
+          contents:
+            - Development of fault-tolerant and energy-efficient Wireless Sensor Networks
+            - Cybersecurity of Distributed Energy Resources and Smart Grid
+    - title: Bachelor of Technology (BTech) in Mechanical Engineering
+      institution: Indian Institute of Technology (IIT), Dhanbad, JH, India
+      year: 2012 - 2016
       description:
-        - Description 1.
-        - Description 2.
+        - 'GPA: 7.73 (10.0 scale) – First Class'
+        - 'Advisor: Prof. L. A. Kumaraswamidhas'
+        - 'Project: Computer-aided Design and Simulation of Automotive Components under Experimental Conditions'
 
-- title: Experience
+- title: Research and Industry Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -78,20 +95,3 @@
     - year: 2029
       items:
         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
