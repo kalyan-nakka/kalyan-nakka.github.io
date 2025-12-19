@@ -51,7 +51,7 @@
   type: time_table
   contents:
     - title: Graduate Assistant - Research
-      institution: Texas A&M Engineering Experiment Station, US
+      institution: Texas A&M Engineering Experiment Station
       year: 2024 - NOW
       description:
         - Demonstrated quantization risks and vulnerabilities in on-device Small Language Models
@@ -59,7 +59,7 @@
         - Developed novel Black-box Jailbreaking Attack on safety aligned Large Language Models, that exploits Bitstream Camouflage vulnerability
 
     - title: Graduate Research Assistant
-      institution: Texas A&M University–Kingsville, US
+      institution: Texas A&M University–Kingsville
       year: 2022 - 2023
       description:
         - Developed Blockchain-based security and control platforms for Distributed Energy Resources and Smart Inverters
@@ -90,20 +90,84 @@
         - Developed various Windows computer software, accessed by 6,000+ employees for over 85% of business case processing
         - Programmed various features as additions to legacy computer software, saving 2 FTEs per business case and $20,000 of operational cost
 
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Guest Lecture
+      institution: Texas A&M University–Kingsville
+      year: 2023
+      description:
+        - 'Topic: Quantum threat to current Cybersecurity'
+        - 'Course: Industrial Control Systems Security'
+        - Taught in Spring 2023 by Dr. Taesic Kim
+
+    - title: Graduate Teaching Assistant
+      institution: Texas A&M University–Kingsville
+      year: 2022
+      description:
+        - 'Course: Massive Parallel Computing'
+        - Taught in Summer 2022 by Dr. Maleq Khan
+        - Helped with the organization of the class and grading homeworks & exams
+
+    - title: Graduate Teaching Assistant
+      institution: Texas A&M University–Kingsville
+      year: 2022
+      description:
+        - 'Course: Foundations of Computer Science'
+        - Taught in Spring 2022 by Dr. Habib M. Ammari
+        - Helped with the organization of the class and grading homeworks & exams
+        - Evaluated class projects of several groups of students
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024 - 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <b>Graduate Research Assistantship</b> from Department of Computer Science & Engineering, Texas A&M University
+    
+    - year: 2023
       items:
-        - Max Planck Medal
+        - <b>Distinguished Student Award</b> from College of Graduate Studies, Texas A&M University–Kingsville
+
+    - year: 2022
+      items:
+        - <b>Dean’s Merit Scholarship</b> from College of Engineering, Texas A&M University–Kingsville for exceptional academic performance
+        - <b>Graduate Research Assistant Scholarship</b> from CPPES Lab, Department of Electrical Engineering and Computer Science, Texas A&M University–Kingsville
+
+    - year: 2021 - 2023
+      items:
+        - <b>Graduate Assistant Scholarship</b> from Department of Electrical Engineering and Computer Science, Texas A&M University–Kingsville
+
+    - year: 2021
+      items:
+        - <b>HEERF III Student Scholarship</b> from College of Graduate Studies, Texas A&M University–Kingsville
+        - <b>Computer Science Graduate Scholarship</b> and <b>Rockwell International Scholarship</b> from Department of Electrical Engineering and Computer Science, Texas A&M University–Kingsville
+
+    - year: 2018
+      items:
+        - <b>Insta Award</b> at Infosys, Bangalore, India
+
+    - year: 2013 - 2016
+      items:
+        - <b>MCM Scholarship</b> from Indian Institute of Technology, Dhanbad for exceptional academic performance
+
+- title: Service
+  type: nested_list
+  contents:
+    - title: Reviewer
+      items:
+        - ACM Transactions on Privacy and Security (TOPS), 2024
+        - IEEE Energy Conversion Congress and Exposition (ECCE), 2024
+        - IEEE Transactions on Smart Grid (TSG), 2025
+        - IEEE Transactions on Artificial Intelligence (TAI), 2025
+
+    - title: Sub-Reviewer
+      items:
+        - Annual Computer Security Applications Conference (ACSAC), 2024
+        - IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
+        - ACM Conference on Computer and Communications Security (CCS), 2025
+
+    - title: Student Mentoring
+      items:
+        - Ausmit Mondal, BS Student, Texas A&M University, 2024-Present
+        - Zachary Laguna, MS Student, Texas A&M University, 2025
