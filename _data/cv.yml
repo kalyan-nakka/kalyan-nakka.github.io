@@ -8,7 +8,7 @@
     - name: Languages
       value: English, Telugu, Hindi
 
-- title: Research Interests
+- title: Research Areas
   type: list
   contents:
     - Adversarial Machine Learning and AI Security
@@ -17,28 +17,30 @@
   type: time_table
   contents:
     - title: Doctor of Philosophy (PhD) in Computer Science
-      institution: Texas A&M University, College Station, TX, United States
+      institution: Texas A&M University
       year: 2024 - 2027
       description:
         - 'GPA: 4.0 (4.0 scale)'
         - 'Advisor: Dr. Nitesh Saxena'
-        - 'Research: Security of real-world AI/ML systems'
+        - 'Research Topic: Security of Emerging AI/ML Systems'
+    
     - title: Master of Science (MS) in Computer Science
-      institution: Texas A&M University–Kingsville, Kingsville, TX, United States
+      institution: Texas A&M University–Kingsville
       year: 2021 - 2023
       description:
         - 'GPA: 4.0 (4.0 scale) – Distinction'
         - title: 'Advisor:'
           contents:
             - Dr. Habib M. Ammari (Thesis)
-            - Dr. Taesic Kim (Research)
-        - 'Thesis: Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches'
-        - title: 'Research:'
+            - Dr. Taesic Kim
+        - title: 'Research Topic:'
           contents:
             - Development of fault-tolerant and energy-efficient Wireless Sensor Networks
             - Cybersecurity of Distributed Energy Resources and Smart Grid
+        - 'Thesis: Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches'
+    
     - title: Bachelor of Technology (BTech) in Mechanical Engineering
-      institution: Indian Institute of Technology (IIT), Dhanbad, JH, India
+      institution: Indian Institute of Technology (IIT), Dhanbad
       year: 2012 - 2016
       description:
         - 'GPA: 7.73 (10.0 scale) – First Class'
@@ -48,35 +50,45 @@
 - title: Research and Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Assistant - Research
+      institution: Texas A&M Engineering Experiment Station, US
+      year: 2024 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Demonstrated quantization risks and vulnerabilities in on-device Small Language Models
+        - Developed practical on-device deployable safety mechanism for securing Small Language Models against quantization vulnerabilities
+        - Developed novel Black-box Jailbreaking Attack on safety aligned Large Language Models, that exploits Bitstream Camouflage vulnerability
+
+    - title: Graduate Research Assistant
+      institution: Texas A&M University–Kingsville, US
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed Blockchain-based security and control platforms for Distributed Energy Resources and Smart Inverters
+        - Developed Quantum-secure IEEE 2030.5 Network for Distributed Energy Resources
+        - Developed protocols for achieving fault-tolerant and energy-efficient coverage in Wireless Sensor Networks, leveraging Square and Irregular Hexagonal Tessellations
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Senior Software Engineer
+      institution: Soroco, India.
+      year: 2019 - 2021
       description:
+        - Coordinated 5+ teams of engineers on projects for development of Python-based Automation Systems and its components, achieving over 90% project success rate
+        - Improved efficiency by 15-20% for Automation System of Fortune 200 insurance company, that currently saves 960 full-time equivalents (FTE) per month and $325,000 of annual operational cost
+        - Engineered Automation Systemsfor Fortune 500 pharmaceutical company, where one saves 10,000+ FTEs of repetitive work and another one saves 5,000+ FTEs of manual repetitive activities and $120,000 of operational cost
+        - Enhanced Automation Systems for utilizing AWS services like RDS and Secrets, for achieving 100% data storage and management to cloud
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Senior Software Engineer
+      institution: Infosys, India
+      year: 2018 - 2019
+      description:
+        - Mentored 2 teams of engineers on projects for Windows computer software, accessed by 6,000+ client employees for business case processing and achieved over 95% of project expectations
+        - Integrated legacy Windows-based computer software with Web-based REST API using C#, saving over 70% time of document generation
+        - Facilitated the transition of over 90% databases by leveraging database design and planning principles
+
+    - title: Software Engineer
+      institution: Infosys, India
+      year: 2016 - 2018
+      description:
+        - Developed various Windows computer software, accessed by 6,000+ employees for over 85% of business case processing
+        - Programmed various features as additions to legacy computer software, saving 2 FTEs per business case and $20,000 of operational cost
 
 - title: Open Source Projects
   type: time_table
