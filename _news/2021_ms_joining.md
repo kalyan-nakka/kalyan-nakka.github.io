@@ -11,5 +11,5 @@ related_posts: false
 [STATUS]
 </b>
 </span>
-Started as a MS student at EECS @ TAMUK.
+Started as a CS MS student in EECS Dept. @ TAMUK.
 </p>

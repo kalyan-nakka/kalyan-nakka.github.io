@@ -11,5 +11,5 @@ related_posts: false
 [STATUS]
 </b>
 </span>
-Started as a Ph.D. student at CSE @ TAMU, advised by Dr. <a href="https://scholar.google.com/citations?user=_x5BEjoAAAAJ" target="_blank">Nitesh Saxena</a> in the SPIES Research Lab.
+Started as a CS PhD student in CSE Dept. @ TAMU, advised by Dr. <a href="https://scholar.google.com/citations?user=_x5BEjoAAAAJ" target="_blank">Nitesh Saxena</a> in the SPIES Research Lab.
 </p>

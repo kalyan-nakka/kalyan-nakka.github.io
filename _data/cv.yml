@@ -20,32 +20,34 @@
       institution: Texas A&M University
       year: 2024 - 2027
       description:
-        - 'GPA: 4.0 (4.0 scale)'
-        - 'Advisor: Dr. Nitesh Saxena'
-        - 'Research Topic: Security of Emerging AI/ML Systems of Language Models (SLMs and LLMs)'
+        - '<b>GPA:</b> 4.0 (4.0 scale)'
+        - '<b>Advisor:</b> Dr. Nitesh Saxena'
+        - title: '<b>Research Topic:</b>'
+          contents:
+            - 'Security of Emerging AI/ML Systems of Language Models (SLMs and LLMs)'
     
     - title: Master of Science (MS) in Computer Science
       institution: Texas A&M University–Kingsville
       year: 2021 - 2023
       description:
-        - 'GPA: 4.0 (4.0 scale) – Distinction'
-        - title: 'Advisor:'
+        - '<b>GPA:</b> 4.0 (4.0 scale) – Distinction'
+        - title: '<b>Advisor:</b>'
           contents:
             - Dr. Habib M. Ammari (Thesis)
             - Dr. Taesic Kim
-        - title: 'Research Topic:'
+        - title: '<b>Research Topic:</b>'
           contents:
-            - Development of fault-tolerant and energy-efficient Wireless Sensor Networks
-            - Cybersecurity of Distributed Energy Resources and Smart Grid
-        - 'Thesis: Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches'
+            - Development of fault-tolerant and energy-efficient Wireless Sensor Networks (WSNs)
+            - Cybersecurity of Distributed Energy Resources (DERs) and Smart Grid
+        - '<b>Thesis:</b> Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches'
     
     - title: Bachelor of Technology (BTech) in Mechanical Engineering
       institution: Indian Institute of Technology (IIT), Dhanbad
       year: 2012 - 2016
       description:
-        - 'GPA: 7.73 (10.0 scale) – First Class'
-        - 'Advisor: Prof. L. A. Kumaraswamidhas'
-        - 'Project: Computer-aided Design and Simulation of Automotive Components under Experimental Conditions'
+        - '<b>GPA:</b> 7.73 (10.0 scale) – First Class'
+        - '<b>Advisor:</b> Prof. L. A. Kumaraswamidhas'
+        - '<b>Project:</b> Computer-aided Design and Simulation of Automotive Components under Experimental Conditions'
 
 - title: Research and Industry Experience
   type: time_table
@@ -54,17 +56,17 @@
       institution: Texas A&M Engineering Experiment Station
       year: 2024 - NOW
       description:
-        - Demonstrated quantization risks and vulnerabilities in on-device Small Language Models
-        - Developed practical on-device deployable safety mechanism for securing Small Language Models against quantization vulnerabilities
-        - Developed novel Black-box Jailbreaking Attack on safety aligned Large Language Models, that exploits Bitstream Camouflage vulnerability
+        - Demonstrated quantization risks and vulnerabilities in on-device SLMs
+        - Developed practical on-device deployable guardrails for securing SLMs against quantization vulnerabilities
+        - Developed novel Black-box Jailbreaking Attack on safety aligned LLMs, that exploits Bitstream Camouflage vulnerability
 
     - title: Graduate Research Assistant
       institution: Texas A&M University–Kingsville
       year: 2022 - 2023
       description:
-        - Developed Blockchain-based security and control platforms for Distributed Energy Resources and Smart Inverters
-        - Developed Quantum-secure IEEE 2030.5 Network for Distributed Energy Resources
-        - Developed protocols for achieving fault-tolerant and energy-efficient coverage in Wireless Sensor Networks, leveraging Square and Irregular Hexagonal Tessellations
+        - Developed Blockchain-based security and control platforms for DERs and Smart Inverters
+        - Developed Quantum-secure IEEE 2030.5 Network for DERs
+        - Developed protocols for achieving fault-tolerant and energy-efficient coverage in WSNs, leveraging Square and Irregular Hexagonal Tessellations
 
     - title: Senior Software Engineer
       institution: Soroco, India.
@@ -97,15 +99,15 @@
       institution: Texas A&M University–Kingsville
       year: 2023
       description:
-        - 'Topic: Quantum threat to current Cybersecurity'
-        - 'Course: Industrial Control Systems Security'
+        - '<b>Topic:</b> Quantum threat to current Cybersecurity'
+        - '<b>Course:</b> Industrial Control Systems Security'
         - Taught in Spring 2023 by Dr. Taesic Kim
 
     - title: Graduate Teaching Assistant
       institution: Texas A&M University–Kingsville
       year: 2022
       description:
-        - 'Course: Massive Parallel Computing'
+        - '<b>Course:</b> Massive Parallel Computing'
         - Taught in Summer 2022 by Dr. Maleq Khan
         - Helped with the organization of the class and grading homeworks & exams
 
@@ -113,7 +115,7 @@
       institution: Texas A&M University–Kingsville
       year: 2022
       description:
-        - 'Course: Foundations of Computer Science'
+        - '<b>Course:</b> Foundations of Computer Science'
         - Taught in Spring 2022 by Dr. Habib M. Ammari
         - Helped with the organization of the class and grading homeworks & exams
         - Evaluated class projects of several groups of students

@@ -11,5 +11,5 @@ related_posts: false
 [STATUS]
 </b>
 </span>
-I received my M.S. degree from EECS @ TAMUK. I deeply appreciate all the support and help from my family, advisor, collaborators, and friends!
+I received my CS MS degree from EECS Dept. @ TAMUK. I deeply appreciate all the support and help from my family, advisor, collaborators, and friends!
 </p>
