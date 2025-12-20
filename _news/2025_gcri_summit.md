@@ -8,7 +8,7 @@ related_posts: false
 <p>
 <span style="color: #1E90FF;">
 <b>
-[PRESENTATION]
+[POSTER]
 </b>
 </span>
 Presented our work on developing <a href="https://arxiv.org/pdf/2505.05619" target="_blank">LiteLMGuard</a>, an On-Device Guardrails for SLMs, at <b>Texas A&M Global Cyber Research Institute Annual Summit 2025</b>.
