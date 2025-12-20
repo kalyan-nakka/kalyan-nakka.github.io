@@ -22,7 +22,7 @@
       description:
         - 'GPA: 4.0 (4.0 scale)'
         - 'Advisor: Dr. Nitesh Saxena'
-        - 'Research Topic: Security of Emerging AI/ML Systems'
+        - 'Research Topic: Security of Emerging AI/ML Systems of Language Models (SLMs and LLMs)'
     
     - title: Master of Science (MS) in Computer Science
       institution: Texas A&M University–Kingsville
@@ -171,3 +171,30 @@
       items:
         - Ausmit Mondal, BS Student, Texas A&M University, 2024-Present
         - Zachary Laguna, MS Student, Texas A&M University, 2025
+
+- title: Invited Talks/Presentations
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - '<i>“Safeguarding Both Mobile AI and User: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities”</i>, Texas A&M Global Cyber Research Institute Annual Summit (GCRI), College Station, TX, September 2025'
+        - '<i>“Trust and Ethics Gap in On-Device Quantized Language Models: Risks and Vulnerabilities”</i>, Texas A&M Initiative for Connected Intelligence (TICI), College Station, TX, March 2025'
+    
+    - year: 2024
+      items:
+        - '<i>“Broken and Exploitable On-Device AI: A Comparative Trust and Ethics Assessment of Small Language Models”</i>, Texas A&M Global Cyber Research Institute Annual Summit (GCRI), College Station, TX, September 2024'
+
+    - year: 2023
+      items:
+        - '<i>“Can Geometry Solve Complex Computer Science Problems?”</i>, Texas A&M Graduate Science and Engineering Research Colloquium (GSERQ) Series, Kingsville, TX, USA, February 2023'
+
+    - year: 2022
+      items:
+        - '<i>“Potential Quantum Computing Attacks on Distributed Energy Resources and Post-Quantum Cryptography grade IEEE 2030.5”</i>, SunSpec Alliance Annual Meeting (Virtual), Las Vegas, NV, December 2022'
+
+- title: Media Coverage/Inclusion
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - '<b>[ChosunBiz]</b> <i>“<a href="https://biz.chosun.com/en/en-it/2025/12/09/LYNFHR3PKJAVDHXP4LWOBIHHXQ/">LG Uplus ixi-O leak undermines on-device AI security claims</a>”</i>, December 2025'
