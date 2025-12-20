@@ -41,5 +41,13 @@ latest_posts:
 </p>
 
 <p>
-  Apart from researching, I am very fond of drawing pencil sketches, creating ambigrams, watching Anime/TV Series/Movies, and playing Video games.
+  Apart from researching, I am very fond of drawing pencil sketches, creating ambigrams, watching Anime/TV series/Movies, travelling places and playing video games.
+</p>
+
+<p>
+  <span style="color: red;">
+    <b>
+      I'm actively looking for 2026 internship/co-op opportunities. Please feel free to reach to me !!
+    </b>
+  </span>
 </p>
