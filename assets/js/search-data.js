@@ -122,6 +122,9 @@ ninja.data = [{
           section: "News",},{id: "news-media-our-on-device-slms-study-is-cited-in-a-south-korean-news-article-covering-a-major-incident-related-to-ai-security-breach-check-the-original-news-article-here",
           title: '[MEDIA] Our On-Device SLMs study is cited in a South Korean news article,...',
           description: "",
+          section: "News",},{id: "news-paper-our-paper-on-bitbypass-a-black-box-jailbreaking-attack-on-llms-is-accepted-in-eacl-2026-conference",
+          title: '[PAPER] Our paper on BitBypass, a Black-box Jailbreaking Attack on LLMs, is accepted...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
