@@ -11,5 +11,5 @@ related_posts: false
 [PAPER]
 </b>
 </span>
-Our paper on <a href="https://arxiv.org/pdf/2505.05619" target="_blank">LiteLMGuard</a> is accepted in <b>IJCNLP-AACL 2025</b> conference.
+Our paper on <a href="/assets/pdf/2025_IJCNLP_AACL.pdf" target="_blank">LiteLMGuard</a> is accepted in <b>IJCNLP-AACL 2025</b> conference.
 </p>
