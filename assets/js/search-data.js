@@ -125,6 +125,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-our-paper-on-bitbypass-a-black-box-jailbreaking-attack-on-llms-is-accepted-in-eacl-2026-conference",
           title: '[PAPER] Our paper on BitBypass, a Black-box Jailbreaking Attack on LLMs, is accepted...',
           description: "",
+          section: "News",},{id: "news-paper-the-extended-version-of-our-pst-2025-paper-for-assessing-cryptographic-indistinguishability-led-by-jimmy-dani-is-accepted-in-cryptography-journal",
+          title: '[PAPER] The extended version of our PST 2025 paper, for assessing cryptographic indistinguishability,...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
