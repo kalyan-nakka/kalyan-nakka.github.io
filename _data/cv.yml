@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Kalyan Nakka
-    - name: Date of Birth
-      value: 3rd May 1995
+      value: V S Kalyan Nakka
     - name: Languages
-      value: English, Telugu, Hindi
+      value: "English, Telugu, Hindi"
 
 - title: Research Areas
   type: list

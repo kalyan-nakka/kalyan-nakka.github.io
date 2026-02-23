@@ -37,7 +37,7 @@ latest_posts:
 </p>
 
 <p>
-  Prior to joining TAMUK, I was a Senior Software Engineer with 5 years of professional experience (2016-2021), and received my Bachelors degree from Indian Institute of Technology (IIT) at Dhanbad in 2016. At IIT, I worked on the project of Computer-aided design and simulation of Automobile components subjected to various experimental conditions, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">L. A. Kumaraswamidhas</a>.
+  Prior to joining TAMUK, I was a Senior Software Engineer with 5 years of professional experience (2016-2021), and received my Bachelors degree from Indian Institute of Technology (IIT) at Dhanbad in 2016. At IIT, I worked on the project of Computer-aided design and simulation of Automobile components subjected to various experimental conditions, under the supervision of Dr. <a href="https://scholar.google.com/citations?user=cgG7GyoAAAAJ" target="_blank">L. A. Kumaraswamidhas</a>.
 </p>
 
 <p>

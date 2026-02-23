@@ -11,7 +11,7 @@
 "RoJAE":
   url: https://www.ingineria-automobilului.ro/about.php
 
-"ISCC":
+"IEEE ISCC":
   url: https://2023.ieee-iscc.org/
 
 "JPDC":
@@ -21,22 +21,22 @@
   url: https://www.tamuk.edu/engineering/departments/eecs/index.html
   color: "#00369f"
 
-"ISGT":
+"IEEE ISGT":
   url: https://ieee-isgt.org/
 
-"AdHoc":
+"AdHoc Net.":
   url: https://www.sciencedirect.com/journal/ad-hoc-networks
 
 "arXiv":
   url: https://arxiv.org/
 
-"Access":
+"IEEE Access":
   url: https://ieeeaccess.ieee.org/
 
-"ECCE":
+"IEEE ECCE":
   url: https://www.ieee-ecce.org/2024/
 
-"TOSN":
+"ACM TOSN":
   url: https://dl.acm.org/journal/tosn
 
 "PST":
