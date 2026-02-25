@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-25'
 papers:
   vrwOwf4AAAAJ:4JMBOYKVnBMC:
     citations: 1
@@ -13,12 +13,20 @@ papers:
     citations: 5
     title: Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models
     year: '2024'
+  vrwOwf4AAAAJ:JV2RwH3_ST0C:
+    citations: 5
+    title: A Machine Learning-Based Framework for Assessing Cryptographic Indistinguishability of Lightweight Block Ciphers
+    year: '2025'
+  vrwOwf4AAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: 'MIND-Crypt: A Machine Learning Framework for Assessing the Indistinguishability of Lightweight Block Ciphers Across Multiple Modes of Operation'
+    year: '2026'
   vrwOwf4AAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: Achieving Connected k-Coverage in Wireless Sensor Networks Using Computational Geometry-Based Approaches
     year: '2023'
   vrwOwf4AAAAJ:RHpTSmoSYBkC:
-    citations: 2
+    citations: 3
     title: Hierarchical Deployment and Square Tessellation for Connected k-Coverage in Heterogeneous Planar Wireless Sensor Networks
     year: '2025'
   vrwOwf4AAAAJ:TFP_iSt0sucC:
@@ -34,17 +42,13 @@ papers:
     title: Square Tessellation for Stochastic Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2023'
   vrwOwf4AAAAJ:_FxGoFyzp5QC:
-    citations: 13
+    citations: 14
     title: An Energy-Efficient Irregular Hexagonal Tessellation-based Approach for Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2024'
   vrwOwf4AAAAJ:_Qo2XoVZTnwC:
-    citations: 4
+    citations: 3
     title: Blockchain-Assisted Resilient Control for Distributed Energy Resource Management Systems
     year: '2024'
-  vrwOwf4AAAAJ:bEWYMUwI8FkC:
-    citations: 3
-    title: A Machine Learning-Based Framework for Assessing Cryptographic Indistinguishability of Lightweight Block Ciphers
-    year: '2025'
   vrwOwf4AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Experimental and Numerical Investigation on Torsional failure of Cardan Joint of an Intermediate Steering Shaft
@@ -54,7 +58,7 @@ papers:
     title: Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks
     year: '2024'
   vrwOwf4AAAAJ:iH-uZ7U-co4C:
-    citations: 0
+    citations: 2
     title: 'BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage'
     year: '2025'
   vrwOwf4AAAAJ:isC4tDSrTZIC:
