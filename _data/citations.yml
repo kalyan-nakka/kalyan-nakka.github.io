@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-02'
 papers:
   vrwOwf4AAAAJ:4JMBOYKVnBMC:
     citations: 1
@@ -58,7 +58,7 @@ papers:
     title: Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks
     year: '2024'
   vrwOwf4AAAAJ:iH-uZ7U-co4C:
-    citations: 2
+    citations: 3
     title: 'BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage'
     year: '2025'
   vrwOwf4AAAAJ:isC4tDSrTZIC:
