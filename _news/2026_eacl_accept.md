@@ -11,5 +11,5 @@ related_posts: false
 [PAPER]
 </b>
 </span>
-Our paper on <a href="https://arxiv.org/pdf/2506.02479" target="_blank">BitBypass</a>, a Black-box Jailbreaking Attack on LLMs, is accepted in <b>EACL 2026</b> conference.
+Our paper on <a href="/assets/pdf/2026_EACL.pdf" target="_blank">BitBypass</a>, a Black-box Jailbreaking Attack on LLMs, is accepted in <b>EACL 2026</b> conference.
 </p>
