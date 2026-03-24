@@ -176,6 +176,11 @@
 - title: Presentations and Posters
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - '<i>“BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage”</i>, Texas A&M Initiative for Connected Intelligence (TICI), College Station, TX, March 2026'
+        - '<i>“LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities”</i>, Texas A&M Initiative for Connected Intelligence (TICI), College Station, TX, March 2026'
+
     - year: 2025
       items:
         - '<i>“Safeguarding Both Mobile AI and User: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities”</i>, Texas A&M Global Cyber Research Institute Annual Summit (GCRI), College Station, TX, September 2025'
