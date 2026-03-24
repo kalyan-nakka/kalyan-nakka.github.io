@@ -128,6 +128,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-the-extended-version-of-our-pst-2025-paper-for-assessing-cryptographic-indistinguishability-led-by-jimmy-dani-is-accepted-in-cryptography-journal",
           title: '[PAPER] The extended version of our PST 2025 paper, for assessing cryptographic indistinguishability,...',
           description: "",
+          section: "News",},{id: "news-poster-presented-our-bitbypass-and-litelmguard-research-at-texas-a-amp-amp-m-initiative-for-connected-intelligence-2026-workshop",
+          title: '[POSTER] Presented our BitBypass and LiteLMGuard research at Texas A&amp;amp;amp;M Initiative for Connected...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
