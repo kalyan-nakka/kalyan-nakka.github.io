@@ -131,6 +131,9 @@ ninja.data = [{
           section: "News",},{id: "news-poster-presented-our-bitbypass-and-litelmguard-research-at-texas-a-amp-amp-m-initiative-for-connected-intelligence-2026-workshop",
           title: '[POSTER] Presented our BitBypass and LiteLMGuard research at Texas A&amp;amp;amp;M Initiative for Connected...',
           description: "",
+          section: "News",},{id: "news-presentation-presented-our-llms-jailbreaking-research-bitbypass-at-the-eacl-2026-conference",
+          title: '[PRESENTATION]   Presented our LLMs jailbreaking research, BitBypass, at the EACL 2026 conference.',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
