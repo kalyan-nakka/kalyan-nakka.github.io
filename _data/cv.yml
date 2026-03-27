@@ -178,6 +178,8 @@
   contents:
     - year: 2026
       items:
+        - '<i>“BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage”</i>, 19th 
+        Conference of the European Chapter of the Association for Computational Linguistics (EACL), Rabat, Morocco, March 2026'
         - '<i>“BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage”</i>, Texas A&M Initiative for Connected Intelligence (TICI), College Station, TX, March 2026'
         - '<i>“LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities”</i>, Texas A&M Initiative for Connected Intelligence (TICI), College Station, TX, March 2026'
 
