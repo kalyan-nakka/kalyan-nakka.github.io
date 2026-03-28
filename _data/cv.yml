@@ -93,6 +93,14 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - title: Course Designer
+      institution: Texas A&M University
+      year: 2025 - 2026
+      description:
+        - '<b>Course:</b> Network Security'
+        - Taught in Fall 2025 and Spring 2026 by Dr. Nitesh Saxena
+        - Helped with the organization of the course slides and homeworks, to align with learning objectives
+
     - title: Guest Lecture
       institution: Texas A&M University–Kingsville
       year: 2023
