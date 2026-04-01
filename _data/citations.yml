@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-04-01'
 papers:
   vrwOwf4AAAAJ:4JMBOYKVnBMC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: Square Tessellation for Stochastic Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2023'
   vrwOwf4AAAAJ:_FxGoFyzp5QC:
-    citations: 14
+    citations: 15
     title: An Energy-Efficient Irregular Hexagonal Tessellation-based Approach for Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2024'
   vrwOwf4AAAAJ:_Qo2XoVZTnwC:
@@ -57,10 +57,10 @@ papers:
     citations: 15
     title: Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks
     year: '2024'
-  vrwOwf4AAAAJ:iH-uZ7U-co4C:
+  vrwOwf4AAAAJ:hMod-77fHWUC:
     citations: 3
     title: 'BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage'
-    year: '2025'
+    year: '2026'
   vrwOwf4AAAAJ:isC4tDSrTZIC:
     citations: 0
     title: 'LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities'
