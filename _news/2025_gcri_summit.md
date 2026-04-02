@@ -11,5 +11,5 @@ related_posts: false
 [POSTER]
 </b>
 </span>
-Presented our work on developing <a href="/assets/pdf/2025_IJCNLP_AACL.pdf" target="_blank">LiteLMGuard</a>, an On-Device Guardrails for SLMs, at <b>Texas A&M Global Cyber Research Institute Annual Summit 2025</b>.
+Presented our work on developing <a href="/assets/pdf/2025_IJCNLP_AACL.pdf" target="_blank">LiteLMGuard</a> at <b>Texas A&M Global Cyber Research Institute Annual Summit 2025</b>.
 </p>
