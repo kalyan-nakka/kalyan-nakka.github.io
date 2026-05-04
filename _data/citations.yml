@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-04'
 papers:
   vrwOwf4AAAAJ:4JMBOYKVnBMC:
-    citations: 1
+    citations: 2
     title: Field Demonstration of Blockchain-based Security for a Solar Farm
     year: '2024'
   vrwOwf4AAAAJ:9yKSN-GCB0IC:
@@ -10,11 +10,11 @@ papers:
     title: Experimental and Numerical Study on Energy Absorption characteristics of Mild Steel and Aluminium Square Tubes under Axial loading
     year: '2016'
   vrwOwf4AAAAJ:HDshCWvjkbEC:
-    citations: 5
+    citations: 6
     title: Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models
     year: '2024'
   vrwOwf4AAAAJ:JV2RwH3_ST0C:
-    citations: 5
+    citations: 6
     title: A Machine Learning-Based Framework for Assessing Cryptographic Indistinguishability of Lightweight Block Ciphers
     year: '2025'
   vrwOwf4AAAAJ:M3NEmzRMIkIC:
@@ -42,11 +42,11 @@ papers:
     title: Square Tessellation for Stochastic Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2023'
   vrwOwf4AAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 16
     title: An Energy-Efficient Irregular Hexagonal Tessellation-based Approach for Connected k-Coverage in Planar Wireless Sensor Networks
     year: '2024'
   vrwOwf4AAAAJ:_Qo2XoVZTnwC:
-    citations: 3
+    citations: 4
     title: Blockchain-Assisted Resilient Control for Distributed Energy Resource Management Systems
     year: '2024'
   vrwOwf4AAAAJ:d1gkVwhDpl0C:
@@ -54,15 +54,15 @@ papers:
     title: Experimental and Numerical Investigation on Torsional failure of Cardan Joint of an Intermediate Steering Shaft
     year: '2016'
   vrwOwf4AAAAJ:dhFuZR0502QC:
-    citations: 15
+    citations: 17
     title: Post-Quantum Cryptography (PQC)-Grade IEEE 2030.5 for Quantum Secure Distributed Energy Resources Networks
     year: '2024'
   vrwOwf4AAAAJ:hMod-77fHWUC:
-    citations: 3
+    citations: 4
     title: 'BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage'
     year: '2026'
   vrwOwf4AAAAJ:isC4tDSrTZIC:
-    citations: 0
+    citations: 1
     title: 'LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities'
     year: '2025'
   vrwOwf4AAAAJ:k_IJM867U9cC:
