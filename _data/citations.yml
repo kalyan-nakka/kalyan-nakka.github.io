@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   vrwOwf4AAAAJ:4JMBOYKVnBMC:
     citations: 2
@@ -62,7 +62,7 @@ papers:
     title: 'BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage'
     year: '2026'
   vrwOwf4AAAAJ:isC4tDSrTZIC:
-    citations: 2
+    citations: 3
     title: 'LiteLMGuard: Seamless and Lightweight On-Device Guardrails for Small Language Models against Quantization Vulnerabilities'
     year: '2025'
   vrwOwf4AAAAJ:k_IJM867U9cC:
