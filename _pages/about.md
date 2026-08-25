@@ -33,7 +33,7 @@ latest_posts:
 </p>
 
 <p>
-  I received my Masters degree (<a href="https://www.proquest.com/openview/10593130ffe518b96c28f468a9d6fcdf/" target="_blank">Thesis</a>) from <a href="https://www.tamuk.edu/index.html" target="_blank">Texas A&M University</a> at Kingsville (TAMUK) in 2023. At TAMUK, I had the oppurtunity to work with Dr. <a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a> at WiSeMAN Research Lab, on designing reliable, fault-tolerant and energy-efficient Wireless Sensor Networks (WSNs), and with Dr. <a href="https://scholar.google.com/citations?user=pszzCaYAAAAJ" target="_blank">Taesic Kim</a> at CPPES Lab, on the cybersecurity of Distributed Energy Resources (DERs) and Smart Grid. 
+  I received my Master’s degree (<a href="https://www.proquest.com/openview/10593130ffe518b96c28f468a9d6fcdf/" target="_blank">Thesis</a>) from <a href="https://www.tamuk.edu/index.html" target="_blank">Texas A&M University</a> at Kingsville (TAMUK) in 2023. At TAMUK, I had the oppurtunity to work with Dr. <a href="https://scholar.google.com/citations?user=gQpo2tUAAAAJ" target="_blank">Habib M. Ammari</a> at WiSeMAN Research Lab, on designing reliable, fault-tolerant and energy-efficient Wireless Sensor Networks (WSNs), and with Dr. <a href="https://scholar.google.com/citations?user=pszzCaYAAAAJ" target="_blank">Taesic Kim</a> at CPPES Lab, on the cybersecurity of Distributed Energy Resources (DERs) and Smart Grid. 
 </p>
 
 <p>
@@ -45,9 +45,9 @@ latest_posts:
 </p>
 
 <p>
-  <span style="color: red;">
+  <span style="color: #741249;">
     <b>
-      I'm actively looking for 2026 internship/co-op opportunities. Please feel free to reach to me !!
+      I'll be joining Centific as a Research Intern in Fall 2026!! I would be happy to connect with fellow interns!! Feel free to email or ping me for a chat!!
     </b>
   </span>
 </p>

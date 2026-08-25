@@ -9,7 +9,7 @@
 - title: Research Areas
   type: list
   contents:
-    - Adversarial Machine Learning and AI Security
+    - Adversarial Machine Learning, AI Security and Language Models (SLMs, LLMs and RLMs)
 
 - title: Education
   type: time_table
@@ -22,7 +22,7 @@
         - '<b>Advisor:</b> Dr. Nitesh Saxena'
         - title: '<b>Research Topic:</b>'
           contents:
-            - 'Security of Emerging AI/ML Systems of Language Models (SLMs and LLMs)'
+            - 'Security of Emerging AI Systems, focused on Language Models'
     
     - title: Master of Science (MS) in Computer Science
       institution: Texas A&M University–Kingsville
@@ -50,9 +50,15 @@
 - title: Research and Industry Experience
   type: time_table
   contents:
-    - title: Graduate Assistant - Research
-      institution: Texas A&M Engineering Experiment Station
-      year: 2024 - NOW
+    - title: Research Intern - Responsible AI
+      institution: Centific
+      year: 2026 - NOW
+      description:
+        - Working on safety aspects of Agentic AI and Healthcare AI applications
+
+    - title: Graduate Research Assistant
+      institution: Texas A&M University
+      year: 2024 - 2026
       description:
         - Demonstrated quantization risks and vulnerabilities in on-device SLMs
         - Developed practical on-device deployable guardrails for securing SLMs against quantization vulnerabilities
@@ -168,17 +174,19 @@
         - IEEE Energy Conversion Congress and Exposition (ECCE), 2024
         - IEEE Transactions on Smart Grid (TSG), 2025
         - IEEE Transactions on Artificial Intelligence (TAI), 2025
+        - ACL Rolling Review (ARR), 2026
 
     - title: Sub-Reviewer
       items:
         - Annual Computer Security Applications Conference (ACSAC), 2024
         - IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
         - ACM Conference on Computer and Communications Security (CCS), 2025
+        - ACM AI Letters (AILET), 2026
 
     - title: Student Mentoring
       items:
-        - Ausmit Mondal, BS Student, Texas A&M University, 2024-Present
         - Zachary Laguna, MS Student, Texas A&M University, 2025
+        - Ausmit Mondal, BS Student, Texas A&M University, 2024-Present
         - Venkat Nallam, BS Student, Texas A&M University, 2026-Present
 
 - title: Presentations and Posters
