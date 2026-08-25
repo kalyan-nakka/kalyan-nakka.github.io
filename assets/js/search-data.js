@@ -140,6 +140,9 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-presented-our-llms-jailbreaking-research-bitbypass-at-the-eacl-2026-conference",
           title: '[PRESENTATION]   Presented our LLMs jailbreaking research, BitBypass, at the EACL 2026 conference.',
           description: "",
+          section: "News",},{id: "news-status-started-as-a-research-intern-in-applied-ai-research-team-centific",
+          title: '[STATUS] Started as a Research Intern in Applied AI Research Team @ Centific....',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
