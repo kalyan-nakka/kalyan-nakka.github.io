@@ -45,7 +45,7 @@ latest_posts:
 </p>
 
 <p>
-  <span style="color: #741249;">
+  <span style="color: #C32974;">
     <b>
       I'll be joining Centific as a Research Intern in Fall 2026!! I would be happy to connect with fellow interns!! Feel free to email or ping me for a chat!!
     </b>
