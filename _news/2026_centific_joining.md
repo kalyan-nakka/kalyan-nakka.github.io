@@ -11,5 +11,5 @@ related_posts: false
 [STATUS]
 </b>
 </span>
-Started as a Research Intern in Applied AI Research Team @ Centific.
+Started as a PhD Research Intern in the Applied AI Research Team @ Centific.
 </p>

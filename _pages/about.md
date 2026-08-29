@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3rd year PhD Student</p>
-    <p>SPIES Research Lab</p>
+    <p>PhD Student, SPIES Research Lab</p>
     <p>CSE @ Texas A&M University</p>
     <p>College Station, TX, USA</p>
 
@@ -47,7 +46,7 @@ latest_posts:
 <p>
   <span style="color: #C32974;">
     <b>
-      I'll be joining Centific as a Research Intern in Fall 2026!! I would be happy to connect with fellow interns!! Feel free to email or ping me for a chat!!
+      I'll be joining Centific as a PhD Research Intern in Fall 2026!! I would be happy to connect with fellow interns!! Feel free to email or ping me for a chat!!
     </b>
   </span>
 </p>

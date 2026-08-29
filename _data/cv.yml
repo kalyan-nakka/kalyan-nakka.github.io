@@ -9,7 +9,7 @@
 - title: Research Areas
   type: list
   contents:
-    - Adversarial Machine Learning, AI Security and Language Models (SLMs, LLMs and RLMs)
+    - Adversarial Machine Learning, AI Security, Efficient AI and AI Evaluations
 
 - title: Education
   type: time_table
@@ -50,7 +50,7 @@
 - title: Research and Industry Experience
   type: time_table
   contents:
-    - title: Research Intern - Responsible AI
+    - title: PhD Research Intern - Responsible AI
       institution: Centific
       year: 2026 - NOW
       description:
@@ -78,7 +78,7 @@
       description:
         - Coordinated 5+ teams of engineers on projects for development of Python-based Automation Systems and its components, achieving over 90% project success rate
         - Improved efficiency by 15-20% for Automation System of Fortune 200 insurance company, that currently saves 960 full-time equivalents (FTE) per month and $325,000 of annual operational cost
-        - Engineered Automation Systemsfor Fortune 500 pharmaceutical company, where one saves 10,000+ FTEs of repetitive work and another one saves 5,000+ FTEs of manual repetitive activities and $120,000 of operational cost
+        - Engineered Automation Systems for Fortune 500 pharmaceutical company, where one saves 10,000+ FTEs of repetitive work and another one saves 5,000+ FTEs of manual repetitive activities and $120,000 of operational cost
         - Enhanced Automation Systems for utilizing AWS services like RDS and Secrets, for achieving 100% data storage and management to cloud
 
     - title: Senior Software Engineer
