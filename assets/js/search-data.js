@@ -143,6 +143,9 @@ ninja.data = [{
           section: "News",},{id: "news-status-started-as-a-phd-research-intern-in-the-applied-ai-research-team-centific",
           title: '[STATUS] Started as a PhD Research Intern in the Applied AI Research Team...',
           description: "",
+          section: "News",},{id: "news-poster-presented-our-llms-jailbreaking-research-bitbypass-in-the-texas-security-workshop-2026-the-university-of-texas-at-dallas",
+          title: '[POSTER] Presented our LLMs jailbreaking research, BitBypass, in the Texas Security Workshop 2026...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
