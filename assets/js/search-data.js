@@ -146,6 +146,9 @@ ninja.data = [{
           section: "News",},{id: "news-poster-presented-our-llms-jailbreaking-research-bitbypass-in-the-texas-security-workshop-2026-the-university-of-texas-at-dallas",
           title: '[POSTER] Presented our LLMs jailbreaking research, BitBypass, in the Texas Security Workshop 2026...',
           description: "",
+          section: "News",},{id: "news-poster-presented-our-llms-jailbreaking-research-bitbypass-at-texas-a-amp-amp-m-global-cyber-research-institute-annual-summit-2026",
+          title: '[POSTER] Presented our LLMs jailbreaking research, BitBypass, at Texas A&amp;amp;amp;M Global Cyber Research...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
